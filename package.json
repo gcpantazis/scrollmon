@@ -3,9 +3,13 @@
   "version": "0.0.0",
   "description": "foo",
   "main": "scrollmon.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "author": "George Pantazis",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "matchdep": "~0.1.2",
+    "grunt-contrib-jshint": "~0.6.4",
+    "grunt-contrib-uglify": "~0.2.4",
+    "grunt-contrib-clean": "~0.5.0"
+  }
 }
