@@ -1,0 +1,23 @@
+{
+  "name": "scrollmon",
+  "main": "scrollmon.js",
+  "version": "0.0.0",
+  "authors": [
+    "George Pantazis <gcpantazis@gmail.com>"
+  ],
+  "description": "Watch elements, respond when they scroll into view.",
+  "keywords": [
+    "scrolling",
+    "events",
+    "watch",
+    "scroll"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
