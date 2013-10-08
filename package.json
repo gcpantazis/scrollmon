@@ -1,7 +1,7 @@
 {
   "name": "scrollmon",
-  "version": "0.0.0",
-  "description": "foo",
+  "version": "0.0.1",
+  "description": "Watch elements, respond when they scroll into view.",
   "main": "scrollmon.js",
   "author": "George Pantazis",
   "license": "MIT",
